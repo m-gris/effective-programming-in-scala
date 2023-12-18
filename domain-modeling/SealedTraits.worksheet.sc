@@ -22,7 +22,7 @@ case class Circle(radius: Double) extends Shape
 val window: Shape = Rectangle(2, 2)
 
 // since a trait has no attribute / field / member
-// to do something with a value of type Shape
+// to be able to actually do something with a value of type Shape
 // we must "recover"  its concrete type using PATTERN MATCHING
 // example
 

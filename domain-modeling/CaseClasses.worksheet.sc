@@ -2,7 +2,7 @@
 
 // CASE CLASSES
 // define IMMUTABLE data type
-// that allow to aggregate several concepts together.
+// that allows to aggregate several concepts together.
 
 case class Rectangle(width: Double, height: Double)
 // the above definition introduces BOTH
